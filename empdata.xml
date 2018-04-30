@@ -3,26 +3,29 @@
     <data>
       <name>Yuki Akira</name>
       <home>Osaka</home>
-      <misson>infiltration</misson>
+      <mission>infiltration</mission>
+      <extension>8422</extension>
       <joining_date>2011/07/25</joining_date>
       <office>Tokyo</office>
-      <extension>8422</extension>
+      
     </data>
     <data>
       <name>Donald Duck</name>
       <home>Los Angelos</home>
-      <misson>Drama</misson>
+      <mission>Drama</mission>
+      <extension>8848</extension>
       <joining_date>1940/01/01</joining_date>
       <office>Hollywood</office>
-      <extension>8848</extension>
+      
     </data>
     <data>
       <name>Eriri Spencer</name>
       <home>Tokyo</home>
-      <misson>Painter</misson>
+      <mission>Painter</mission>
+      <extension>1314</extension>
       <joining_date>1995/01/01</joining_date>
       <office>HongKong</office>
-      <extension>1314</extension>
+      
     </data>
 
   </employees>
